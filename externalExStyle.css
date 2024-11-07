@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    background-color: rgb(240, 202, 153);
+}
+#da{
+    background-color: rgb(227, 243, 108);
+    color: rgb(157, 11, 11);
+}
+#dm{
+    background-color: rgb(179, 224, 224);
+    color: rgb(23, 27, 64);
+}
+p{  
+    color: rgb(10, 91, 3);
+    font-size: 20px;
+}
+.para{
+    color:rgb(199, 14, 116);
+    font-size: 18px;
+}
